@@ -68,9 +68,6 @@
 	:set autoindent
 для автоматического отступа
 
-	:set scrolloff=7
-no scroll button 7 str
-
 Сохраним изменения и выйдем командой :wq (т.е. write and quit)
 
 filetype plugin indent on "Включает определение типа файла, загрузку...
@@ -83,4 +80,16 @@ syntax enable "Включает подсветку синтаксиса
 
 
 https://habr.com/ru/articles/468265/
+
+
+
+
+
+
+
+
+
+
+
+
 
